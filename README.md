@@ -7,4 +7,6 @@
 
 Hi. The purpose of this project is to enable people to move anonymously in the digital space, and also so that people can, in principle, use any resources, regardless of their country, laws, preferences, gender, world views and visions, I hope my efforts, efforts spent, time will help someone. All the world.
 
+В данный момент (13.10.2024) Проделано 30% работы, в аренде 2 сервера, два постоянных спонсора.
+
 Best Regards, DATCHR.
