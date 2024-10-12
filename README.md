@@ -9,4 +9,12 @@ Hi. The purpose of this project is to enable people to move anonymously in the d
 
 В данный момент (13.10.2024) Проделано 30% работы, в аренде 2 сервера, два постоянных спонсора.
 
+At the moment (10/13/2024), 30% of the work has been done, 2 servers are rented, two permanent sponsors.
+
+You can help the project to TON UQC-PxYRNIwW7aHn2ROP-3UAPCF2rjurxBa2cHb84ilL4d18 BTC 19cgWgtMGJbRJSbjzXDh6LDtvN1UyeGVS6
+
+
+Вы можете помочь проекту TON UQC-PxYRNIwW7aHn2ROP-3UAPCF2rjurxBa2cHb84ilL4d18 BTC 19cgWgtMGJbRJSbjzXDh6LDtvN1UyeGVS6
+
+
 Best Regards, DATCHR.
