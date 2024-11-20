@@ -53,7 +53,7 @@ def stop_goodbye_dpi():
         messagebox.showinfo("GoodbyeDPI", "GoodbyeDPI остановлен.")
         btn_toggle_gdpi.config(text="Запустить GoodbyeDPI")
     else:
-        messagebox.showinfo("GoodbyeDPI", "GoodbyeDPI не был запущен.")
+        messagebox.showinfo("Good")
 
 # Утилита для убийства процесса по его имени
 def kill_process_by_name(process_name):
@@ -82,7 +82,7 @@ def create_gui():
     btn_toggle_gdpi.pack(pady=5)
 
     root.geometry("300x200")
-    root.mainloop()
+    root.mainloop()q
 
 if __name__ == "__main__":
     create_gui()
